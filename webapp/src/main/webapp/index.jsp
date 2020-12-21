@@ -1,9 +1,7 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+<h1> Hello, Welcome to My DevOps Project !!   </h1>
 
 <p style="color:red"> Never give up, do practice everyday to becom master </p>
-<h2> Don't be afraid to fail. Be afraid not to try </h2>
-<h2> Glad to see you here </h2>
 
 <h1>
-<p style="color:green"> Ansible deployment using jenkins job to docker container</p>
+<p style="color:green"> Check/Test Ansible deployment using jenkins jobs to docker container and Tomcat server </p>
 </h1>
